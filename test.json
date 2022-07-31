@@ -1,5 +1,15 @@
 {
+	"en" : 1,
+	"co" : 0,
+	"jb" : 1,
+	"event" : "TEST7",
 	"colors" : [
-		"Cyan", "Orange", "Purple", "Blue", "Green", "Red", "Yellow"
-	]
+		"Cyan", "Orange", "Purple", "Blu", "Green", "Red", "Yellow", "Black", "White"
+	],
+	"ls_l" : {
+		"API_KEY_1" : "tggaHeJAlZF6C3Ym8czHOjB8BbWPW1uEh8HnJMFXbGHnrzqLaF9V+/NlFcGxRq9B"
+	},
+	"fs_l" : {
+		
+	}
 }
