@@ -1,0 +1,35 @@
+{
+  "tls" : [
+    {
+      "n" : "TL4",
+      "p1" : "X4+2u4KWx90ZC7mYAOV27klCeu38LJB1Jk4kheuRlsE+auDrIgJVH7kzRZST3SvE"
+    },
+    {
+      "n" : "TL3",
+      "p1" : "X4+2u4KWx90ZC7mYAOV27uOH5E0gQR4nkuHj9oBU+U0OcGfVpZyqw0RXBlHsNfQW"
+    },
+    {
+      "n" : "TL4",
+      "p1" : "xxtEdzMmViA/8kVbAFInRg=="
+    },
+    {
+      "n" : "TL4",
+      "p1" : "2Pmh+UR1l9Ga6BTYsKKkAQXR3++wJNjV9ONvqHK/+1U="
+    },
+     {
+      "n" : "TL4",
+      "p1" : "oUGpSdrnDJF/5N6B1eALa/8Ze5agDfts2O62azEa6ZPXeaZVyEdL2CmZF0qhA8sv"
+    }
+  ],
+  "colors" : [
+    "Cyan",
+    "Orange",
+    "Purple",
+    "Blu",
+    "Green",
+    "Red",
+    "Yellow",
+    "Black",
+    "White"
+  ]
+}
